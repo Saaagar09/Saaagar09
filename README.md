@@ -33,11 +33,10 @@
 ### 📦 Java Mini Projects Collection
 👉 [View Repository]([https://github.com/Saaagar09](https://github.com/Saaagar09/java-mini-projects))
 
-A collection of hands-on Java programs demonstrating:
-- Core Java concepts  
-- Exception handling  
-- Loops, conditions, and logic building  
-- Console-based mini applications  
+A collection of Java programs focused on mastering core programming concepts and problem-solving.
+
+✔ Covers OOP, loops, conditions, and logic building  
+✔ Includes multiple console-based applications    
 
 ---
 
