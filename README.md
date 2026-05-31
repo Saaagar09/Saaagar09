@@ -60,9 +60,9 @@ A collection of Java programs focused on mastering core programming concepts and
 
 ## 📊 GitHub Stats
 
-![Sagar's Stats](https://github-readme-stats.vercel.app/api?username=Saaagar09&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Sagar's Stats](https://github-readme-stats.vercel.app/api?username=Saaagar09&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saaagar09&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saaagar09&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 🔥 GitHub Streak
