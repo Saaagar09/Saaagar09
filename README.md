@@ -58,9 +58,7 @@ A collection of Java programs focused on mastering core programming concepts and
 
 ---
 
-## 🔥 GitHub Streak
 
-![Streak](https://streak-stats.demolab.com?user=Saaagar09&theme=tokyonight)
 
 ---
 
